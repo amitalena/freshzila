@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 640px) {
+    .sect .sect1 {
+        width: 450px;
+    }
+}
